@@ -2,6 +2,7 @@
 
 ## Parts
 
+```
 ├── build
 │   ├── main.o
 │   └── ui-elements.o
@@ -14,7 +15,7 @@
     ├── ui-elements.c
     ├── ui-elements.h
     └── ui-elements.o
-
+```
 - main.c -> main loop I guess
 - Makefile -> Duh
 - utils/ui-elements.h -> header files for Buttons, etc
